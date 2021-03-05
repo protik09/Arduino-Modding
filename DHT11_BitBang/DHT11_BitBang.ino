@@ -11,7 +11,6 @@
  */
 
 #include <Arduino.h>
-// #include <HardwareSerial.h>
 #include "dht11.h"
 
 volatile bool linelevel;
